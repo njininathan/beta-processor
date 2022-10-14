@@ -1,6 +1,6 @@
 # Beta microprocessor
 
-![alt text](https://github.com/njininathan/beta-processor/blob/branch/proc.jpg?raw=true)
+![alt text](https://github.com/njininathan/beta-processor/blob/master/proc.jpg?raw=true)
 
 A 5-cycle, 32-bit microprocessor design based on MIT's Beta Instruction Set Architecture.
 
